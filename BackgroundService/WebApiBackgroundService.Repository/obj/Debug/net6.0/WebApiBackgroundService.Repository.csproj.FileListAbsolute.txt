@@ -1,0 +1,30 @@
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.AssemblyReference.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.AssemblyInfo.cs
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.deps.json
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.pdb
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.CopyComplete
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\refint\WebApiBackgroundService.Repository.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.pdb
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Repository\obj\Debug\net6.0\ref\WebApiBackgroundService.Repository.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.deps.json
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Repository.pdb
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\bin\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.AssemblyReference.cache
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.AssemblyInfoInputs.cache
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.AssemblyInfo.cs
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.csproj.CopyComplete
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\refint\WebApiBackgroundService.Repository.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\WebApiBackgroundService.Repository.pdb
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Repository\obj\Debug\net6.0\ref\WebApiBackgroundService.Repository.dll

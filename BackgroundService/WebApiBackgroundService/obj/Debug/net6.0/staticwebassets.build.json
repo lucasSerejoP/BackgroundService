@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "15IfaIc7VVeRDmLGjXPSxacMXEBOSlbYgJdBF21/XqQ=",
+  "Source": "WebApiBackgroundService.Api",
+  "BasePath": "_content/WebApiBackgroundService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

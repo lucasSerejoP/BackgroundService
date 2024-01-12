@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApiBackgroundService.Repository/1.0.0": {
+        "dependencies": {
+          "WebApiBackgroundService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiBackgroundService.Repository.dll": {}
+        }
+      },
+      "WebApiBackgroundService.Domain/1.0.0": {
+        "runtime": {
+          "WebApiBackgroundService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiBackgroundService.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiBackgroundService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.deps.json
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.csproj.AssemblyReference.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.AssemblyInfo.cs
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\refint\WebApiBackgroundService.Domain.dll
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\lucas.pereira\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\ApiTeste\WebApiBackgroundService.Domain\obj\Debug\net6.0\ref\WebApiBackgroundService.Domain.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.deps.json
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\bin\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.AssemblyInfoInputs.cache
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.AssemblyInfo.cs
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\refint\WebApiBackgroundService.Domain.dll
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\WebApiBackgroundService.Domain.pdb
+C:\Users\luuca\Documents\API - dotNet\BackgroundService\WebApiBackgroundService.Domain\obj\Debug\net6.0\ref\WebApiBackgroundService.Domain.dll
